@@ -25,6 +25,7 @@ body {
         font-size: 3rem;
         font-weight: 600;
         font-family: 'Inter', 'Helvetica', sans-serif;
+        line-height: 1.1;
         margin-top: 2rem;
         margin-bottom: 0.5rem;
     }
